@@ -196,6 +196,7 @@ h1 {
 }
 
 .proyecto:hover img {
+  background-size: cover;
   opacity: 0.2;
 }
 
